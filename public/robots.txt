@@ -1,0 +1,3 @@
+# StockFinder Landing Page
+User-agent: *
+Allow: /
