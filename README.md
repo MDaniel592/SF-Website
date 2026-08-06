@@ -21,7 +21,7 @@ Esta página está configurada para desplegarse automáticamente en GitHub Pages
 3. En "Folder", selecciona `/ (root)`
 4. Guarda los cambios
 
-Tu sitio estará disponible en: `https://[tu-usuario].github.io/StockFinder/`
+Tu sitio estará disponible en: `https://mdaniel592.github.io/SF-Website/`
 
 ## Desarrollo Local
 
